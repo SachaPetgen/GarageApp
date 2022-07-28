@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/UI/OrderFrame.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/activity/Order.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/resources/users.properties</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/UI/StartFrame.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/UI/LoginFrame.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/Main.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/people/GarageStaff.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/resources/config.properties</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/vehicles/Car.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/UI/SystemInfoFrame.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/UI/OverListFrame.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/UI/PlanificationFrame.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/activity/OrderPriorityEnum.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/activity/Response.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/GarageApp/src/be/gerdaypetgen/UI/WorkShopFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
